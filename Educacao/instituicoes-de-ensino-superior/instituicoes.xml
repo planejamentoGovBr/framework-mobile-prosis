@@ -29,7 +29,7 @@
 </MapeamentoMetadado>
 </ListaMetadados>
 <ListaFiltro>
-<Filtro value="Modalidade">
+<Filtro value="REDE">
 <ItemFiltro>Pública</ItemFiltro>
 <ItemFiltro>Privada</ItemFiltro>
 </Filtro>
