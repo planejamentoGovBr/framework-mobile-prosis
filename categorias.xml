@@ -52,6 +52,21 @@
 				</ListaRecursos>
 			</ConjuntoDados>
 			<!-- Até aqui -->
+			<!-- Essa parte foi adicionada para testar a cartilha de publicação -->
+			<ConjuntoDados>
+				<Nome>Centro de Referência de Assistência Social - CRAS </Nome>
+				<Descricao>Localização dos CRAS com informações obtidas do CensoSUAS 2012.</Descricao>
+				<ListaRecursos>
+					<Recurso>
+						<Nome>2012: Centro de Referência de Assistência Social</Nome>
+						<Url>https://rawgit.com/planejamentoGovBr/framework-mobile-prosis/master/Governo-e-Politica/centro-de-referencia-de-assistencia-social/centro-de-referencia.xml</Url>
+						<Tipo>Georreferenciamento</Tipo>
+						<Tamanho>1,2MB</Tamanho>
+						<Formato>JSON</Formato>
+					</Recurso>
+				</ListaRecursos>
+			</ConjuntoDados>
+			<!-- Até aqui -->
 			<ConjuntoDados>
 				<Nome>Comunidades Terapêuticas</Nome>
 				<Descricao>Comunidades terapêuticas são entidades privadas, sem fins lucrativos, que realizam acolhimento de pessoas com transtornos decorrentes do uso, abuso ou dependência de substâncias psicoativas.</Descricao>
