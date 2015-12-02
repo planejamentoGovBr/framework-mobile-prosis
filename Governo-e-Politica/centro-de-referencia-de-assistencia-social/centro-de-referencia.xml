@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ConfiguracaoRecurso>
+  <Url>http://www.geoservicos.inde.gov.br/geoserver/wms?service=WFS&amp;version=1.0.0&amp;request=GetFeature&amp;typeName=MDS:CRAS2012&amp;outputFormat=JSON</Url>
+ <CamposObrigatorios>
+    <Geometry>geometry</Geometry>
+    <Properties>properties</Properties>
+    <Titulo>nome</Titulo>
+  </CamposObrigatorios>
+    <PosicaoLatitude>1</PosicaoLatitude>
+    <PosicaoLongitude>0</PosicaoLongitude> </CamposObrigatorios>
+  <ListaMetadados>
+    <MapeamentoMetadado>
+      <Original>FID</Original>
+      <Mapeamento>FID</Mapeamento>
+    </MapeamentoMetadado>
+    <MapeamentoMetadado>
+      <Original>Concluidas</Original>
+      <Mapeamento>Obras concluídas</Mapeamento>
+    </MapeamentoMetadado>
+    <MapeamentoMetadado>
+      <Original>UF</Original>
+      <Mapeamento>Federação</Mapeamento>
+    </MapeamentoMetadado>
+    <MapeamentoMetadado>
+      <Original>Percentual</Original>
+      <Mapeamento>Percentual da obra</Mapeamento>
+    </MapeamentoMetadado>
+  </ListaMetadados>
+  <ListaFiltro>
+    <Filtro value="UF">
+      <ItemFiltro>DF</ItemFiltro>
+      <ItemFiltro>AL</ItemFiltro>
+      <ItemFiltro>PB</ItemFiltro>
+      <ItemFiltro>CE</ItemFiltro>
+    </Filtro>
+  </ListaFiltro>
+</ConfiguracaoRecurso>
