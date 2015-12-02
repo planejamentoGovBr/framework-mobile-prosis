@@ -20,11 +20,11 @@
         <Original>Percentual</Original>
         <Mapeamento>Percentual da obra</Mapeamento>
       </MapeamentoMetadado>
+      </ListaMetadados>
       <ListaFiltro>
-      <Filtro value="Município">
-        <ItemFiltro>Brasília</ItemFiltro>
-        <ItemFiltro>Planaltina</ItemFiltro>
-      </Filtro>
-    </ListaFiltro>
-  </ListaMetadados>
+        <Filtro value="Município">
+          <ItemFiltro>Brasília</ItemFiltro>
+          <ItemFiltro>Planaltina</ItemFiltro>
+        </Filtro>
+      </ListaFiltro>
 </ConfiguracaoRecurso>
