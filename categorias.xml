@@ -37,6 +37,21 @@
 					</Recurso>
 				</ListaRecursos>
 			</ConjuntoDados>
+			<!-- Essa parte foi adicionada para testar a cartilha de publicação -->
+			<ConjuntoDados>
+				<Nome>Minha Casa Minha Vida</Nome>
+				<Descricao>Empreendimentos do Programa Minha Casa, Minha Vida. Empreendimentos pertencentes a Carteira do PAC. Data de referência março/2012.- escala 1:1.000.000. Sistema de referência: SIRGAS2000.</Descricao>
+				<ListaRecursos>
+					<Recurso>
+						<Nome>Minha casa minha vida</Nome>						
+						<Url>https://github.com/planejamentoGovBr/framework-mobile-prosis/blob/master/Governo-e-Politica/minha-casa-minha-vida/programa-minha-casa-minha-vida.xml</Url>
+						<Tipo>Georreferenciamento</Tipo>
+						<Tamanho>2,8MB</Tamanho>
+						<Formato>CSV</Formato>
+					</Recurso>
+				</ListaRecursos>
+			</ConjuntoDados>
+			<!-- Até aqui -->
 			<ConjuntoDados>
 				<Nome>Comunidades Terapêuticas</Nome>
 				<Descricao>Comunidades terapêuticas são entidades privadas, sem fins lucrativos, que realizam acolhimento de pessoas com transtornos decorrentes do uso, abuso ou dependência de substâncias psicoativas.</Descricao>
