@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ConfiguracaoRecurso>
+  <Url>http://www.geoservicos.inde.gov.br/geoserver/wms?service=WFS&amp;version=1.0.0&amp;request=GetFeature&amp;typeName=MPOG:MCMV&ampoutputFormat=CSV</Url>
+  <CamposObrigatorios>
+    <Geometry>geometry</Geometry>
+    <Properties>properties</Properties>
+    <Titulo>MUNICIPIO</Titulo>
+  </CamposObrigatorios>
+  <PosicaoLatitude>1</PosicaoLatitude>
+  <PosicaoLongitude>0</PosicaoLongitude>
+    <ListaMetadados>
+      <MapeamentoMetadado>
+        <Original>Municipio</Original>
+        <Mapeamento>Município</Mapeamento>
+      </MapeamentoMetadado>
+      <MapeamentoMetadado>
+        <Original>Concluidas</Original>
+        <Mapeamento>Obras concluídas</Mapeamento>
+      </MapeamentoMetadado>
+      <MapeamentoMetadado>
+        <Original>Percentual</Original>
+        <Mapeamento>Percentual da obra</Mapeamento>
+      </MapeamentoMetadado>
+  </ListaMetadados>
+</ConfiguracaoRecurso>
