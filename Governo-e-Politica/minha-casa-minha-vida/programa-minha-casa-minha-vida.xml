@@ -17,6 +17,10 @@
       <Mapeamento>Obras concluídas</Mapeamento>
     </MapeamentoMetadado>
     <MapeamentoMetadado>
+      <Original>UF</Original>
+      <Mapeamento>Federação</Mapeamento>
+    </MapeamentoMetadado>
+    <MapeamentoMetadado>
       <Original>Percentual</Original>
       <Mapeamento>Percentual da obra</Mapeamento>
     </MapeamentoMetadado>
