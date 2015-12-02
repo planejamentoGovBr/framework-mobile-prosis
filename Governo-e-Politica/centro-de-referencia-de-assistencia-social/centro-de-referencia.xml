@@ -4,7 +4,7 @@
  <CamposObrigatorios>
     <Latitude>p_latitude</Latitude>
     <Longitude>p_longitud</Longitude>
-    <Titulo>NomeCRAS</Titulo>
+    <Titulo>FID</Titulo>
   </CamposObrigatorios>
    <ListaMetadados>
     <MapeamentoMetadado>
