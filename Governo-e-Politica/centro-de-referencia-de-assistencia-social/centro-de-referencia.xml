@@ -4,34 +4,34 @@
  <CamposObrigatorios>
     <Geometry>geometry</Geometry>
     <Properties>properties</Properties>
-    <Titulo>nome</Titulo>
+    <Titulo>NomeCRAS</Titulo>
   </CamposObrigatorios>
     <PosicaoLatitude>1</PosicaoLatitude>
-    <PosicaoLongitude>0</PosicaoLongitude> </CamposObrigatorios>
+    <PosicaoLongitude>0</PosicaoLongitude> 
   <ListaMetadados>
     <MapeamentoMetadado>
-      <Original>FID</Original>
-      <Mapeamento>FID</Mapeamento>
+      <Original>NomeCRAS</Original>
+      <Mapeamento>Nome do Centro de Referência</Mapeamento>
     </MapeamentoMetadado>
     <MapeamentoMetadado>
-      <Original>Concluidas</Original>
-      <Mapeamento>Obras concluídas</Mapeamento>
+      <Original>TipoLograd</Original>
+      <Mapeamento>Tipo do Logradouro</Mapeamento>
     </MapeamentoMetadado>
     <MapeamentoMetadado>
-      <Original>UF</Original>
-      <Mapeamento>Federação</Mapeamento>
+      <Original>Endereco</Original>
+      <Mapeamento>Endereço</Mapeamento>
     </MapeamentoMetadado>
     <MapeamentoMetadado>
-      <Original>Percentual</Original>
-      <Mapeamento>Percentual da obra</Mapeamento>
+      <Original>NomeMunici</Original>
+      <Mapeamento>Município</Mapeamento>
     </MapeamentoMetadado>
   </ListaMetadados>
   <ListaFiltro>
     <Filtro value="UF">
       <ItemFiltro>DF</ItemFiltro>
-      <ItemFiltro>AL</ItemFiltro>
-      <ItemFiltro>PB</ItemFiltro>
-      <ItemFiltro>CE</ItemFiltro>
+      <ItemFiltro>MG</ItemFiltro>
+      <ItemFiltro>SP</ItemFiltro>
+      <ItemFiltro>RJ</ItemFiltro>
     </Filtro>
   </ListaFiltro>
 </ConfiguracaoRecurso>
