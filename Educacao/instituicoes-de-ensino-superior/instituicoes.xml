@@ -1,37 +1,37 @@
 
 <?xml version="1.0" encoding="UTF-8"?>
 <ConfiguracaoRecurso>
-<Url>https://raw.githubusercontent.com/planejamentoGovBr/framework-mobile-prosis/master/Educacao/instituicoes-de-ensino-superior/instituicao.csv</Url>
-<Separador>;</Separador>
-<CamposObrigatorios>
-<Titulo>NO_IES</Titulo>
-</CamposObrigatorios>
-<ListaMetadados>
-<MapeamentoMetadado>
-<Original>NO_IES</Original>
-<Mapeamento>Nome da Instituicao</Mapeamento>
-</MapeamentoMetadado>
-<MapeamentoMetadado>
-<Original>SG_IES</Original>
-<Mapeamento>Sigla</Mapeamento>
-</MapeamentoMetadado>
-<MapeamentoMetadado>
-<Original>MUNICIPIOIES</Original>
-<Mapeamento>Município</Mapeamento>
-</MapeamentoMetadado>
-<MapeamentoMetadado>
-<Original>DEPADM</Original>
-<Mapeamento>Categoria Administrativa</Mapeamento>
-</MapeamentoMetadado>
-<MapeamentoMetadado>
-<Original>REDE</Original>
-<Mapeamento>Rede de atendimento</Mapeamento>
-</MapeamentoMetadado>
-</ListaMetadados>
-<ListaFiltro>
-<Filtro value="REDE">
-<ItemFiltro>Pública</ItemFiltro>
-<ItemFiltro>Privada</ItemFiltro>
-</Filtro>
-</ListaFiltro>
+  <Url>https://raw.githubusercontent.com/planejamentoGovBr/framework-mobile-prosis/master/Educacao/instituicoes-de-ensino-superior/instituicao.csv</Url>
+  <Separador>;</Separador>
+  <CamposObrigatorios>
+    <Titulo>NO_IES</Titulo>
+  </CamposObrigatorios>
+  <ListaMetadados>
+    <MapeamentoMetadado>
+      <Original>NO_IES</Original>
+      <Mapeamento>Nome da Instituicao</Mapeamento>
+    </MapeamentoMetadado>
+    <MapeamentoMetadado>
+      <Original>SG_IES</Original>
+      <Mapeamento>Sigla</Mapeamento>
+    </MapeamentoMetadado>
+    <MapeamentoMetadado>
+      <Original>MUNICIPIOIES</Original>
+      <Mapeamento>Município</Mapeamento>
+    </MapeamentoMetadado>
+    <MapeamentoMetadado>
+      <Original>DEPADM</Original>
+      <Mapeamento>Categoria Administrativa</Mapeamento>
+    </MapeamentoMetadado>
+    <MapeamentoMetadado>
+      <Original>REDE</Original>
+      <Mapeamento>Rede de atendimento</Mapeamento>
+    </MapeamentoMetadado>
+  </ListaMetadados>
+  <ListaFiltro>
+    <Filtro value="REDE">
+      <ItemFiltro>Pública</ItemFiltro>
+      <ItemFiltro>Privada</ItemFiltro>
+    </Filtro>
+  </ListaFiltro>
 </ConfiguracaoRecurso>
