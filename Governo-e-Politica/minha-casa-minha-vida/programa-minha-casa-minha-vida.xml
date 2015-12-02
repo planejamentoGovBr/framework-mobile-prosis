@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ConfiguracaoRecurso>
   <Url>http://www.geoservicos.inde.gov.br/geoserver/wms?service=WFS&amp;version=1.0.0&amp;request=GetFeature&amp;typeName=MPOG:MCMV&amp;outputFormat=CSV</Url>
+  <Separador>,</Separador>
   <CamposObrigatorios>
     <Latitude>XCOORD</Latitude>
     <Longitude>YCOORD</Longitude>
-    <Titulo>FID</Titulo>
+    <Titulo>Municipio</Titulo>
   </CamposObrigatorios>
     <ListaMetadados>
       <MapeamentoMetadado>
