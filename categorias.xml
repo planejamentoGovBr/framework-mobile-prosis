@@ -224,7 +224,7 @@
 				<ListaRecursos>
 					<Recurso>
 						<Nome>Cadastro das instituições de ensino superior em 2011</Nome>
-						<Url>https://rawgit.com/planejamentoGovBr/framework-mobile-prosis/master/Educacao/instituicoes-de-ensino-superior/instituicoes.xml</Url>
+						<Url>https://raw.githubusercontent.com/planejamentoGovBr/framework-mobile-prosis/master/Educacao/instituicoes-de-ensino-superior/instituicoes.xml</Url>
 						<Tipo>Tabela</Tipo>
 						<Tamanho>1,0MB</Tamanho>
 						<Formato>CSV</Formato>
