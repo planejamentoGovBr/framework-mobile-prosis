@@ -35,15 +35,6 @@
 						<Tamanho>0,43MB</Tamanho>
 						<Formato>CSV</Formato>
 					</Recurso>
-					<!-- Essa parte foi adicionada para testar a cartilha de publicação --> 	
-					<Recurso>
-						<Nome>Minha casa minha vida</Nome>
-						<Url>https://github.com/planejamentoGovBr/framework-mobile-prosis/blob/master/Governo-e-Politica/minha-casa-minha-vida/programa-minha-casa-minha-vida.xml</Url>
-						<Tipo>Georreferenciamento</Tipo>
-						<Tamanho>2,8MB</Tamanho>
-						<Formato>CSV</Formato>
-					</Recurso>
-					<!-- Até aqui --> 	
 				</ListaRecursos>
 			</ConjuntoDados>
 			<ConjuntoDados>
