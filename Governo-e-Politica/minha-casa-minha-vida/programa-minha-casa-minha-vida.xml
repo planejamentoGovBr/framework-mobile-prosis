@@ -5,12 +5,12 @@
   <CamposObrigatorios>
     <Latitude>XCOORD</Latitude>
     <Longitude>YCOORD</Longitude>
-    <Titulo>Municipio</Titulo>
+    <Titulo>FID</Titulo>
   </CamposObrigatorios>
   <ListaMetadados>
     <MapeamentoMetadado>
-      <Original>Municipio</Original>
-      <Mapeamento>Município</Mapeamento>
+      <Original>FID</Original>
+      <Mapeamento>FID</Mapeamento>
     </MapeamentoMetadado>
     <MapeamentoMetadado>
       <Original>Concluidas</Original>
