@@ -6,12 +6,12 @@
 <CamposObrigatorios>
 <Latitude>XCOORD</Latitude>
 <Longitude>YCOORD</Longitude>
-<Titulo>Nome da Instituição</Titulo>
+<Titulo>Nome da Instituicao</Titulo>
 </CamposObrigatorios>
 <ListaMetadados>
 <MapeamentoMetadado>
 <Original>NO_IES</Original>
-<Mapeamento>nome_da_instituicao</Mapeamento>
+<Mapeamento>Nome da Instituicao</Mapeamento>
 </MapeamentoMetadado>
 <MapeamentoMetadado>
 <Original>SG_IES</Original>
