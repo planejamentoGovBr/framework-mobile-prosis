@@ -2,8 +2,8 @@
 <ConfiguracaoRecurso>
   <Url>http://www.geoservicos.inde.gov.br/geoserver/wms?service=WFS&amp;version=1.0.0&amp;request=GetFeature&amp;typeName=MDS:CRAS2012&amp;outputFormat=JSON</Url>
  <CamposObrigatorios>
-    <Latitude>p_latitude</Latitude>
-    <Longitude>p_longitud</Longitude>
+    <Latitude>p_longitud</Latitude>
+    <Longitude>p_latitude</Longitude>
     <Titulo>NomeCRAS</Titulo>
   </CamposObrigatorios>
    <ListaMetadados>
@@ -21,7 +21,7 @@
     </MapeamentoMetadado>
     <MapeamentoMetadado>
       <Original>UF</Original>
-      <Mapeamento>Unidade de Federação</Mapeamento>
+      <Mapeamento>Federação</Mapeamento>
     </MapeamentoMetadado>
     <MapeamentoMetadado>
       <Original>NomeMunici</Original>
