@@ -39,7 +39,7 @@
 					<Recurso>
 						<Nome>Minha casa minha vida</Nome>
 						<Url>https://raw.githubusercontent.com/planejamentoGovBr/framework-mobile-prosis/master/Governo-e-Politica/minha-casa-minha-vida/programa-minha-casa-minha-vida.xml</Url>
-						<Tipo>Georreferenciamento/Tipo>
+						<Tipo>Georreferenciamento</Tipo>
 						<Tamanho>2,8MB</Tamanho>
 						<Formato>CSV</Formato>
 					</Recurso>
