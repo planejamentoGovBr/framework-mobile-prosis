@@ -22,6 +22,10 @@
       <Mapeamento>Endereço</Mapeamento>
     </MapeamentoMetadado>
     <MapeamentoMetadado>
+      <Original>UF</Original>
+      <Mapeamento>Unidade de Federação</Mapeamento>
+    </MapeamentoMetadado>
+    <MapeamentoMetadado>
       <Original>NomeMunici</Original>
       <Mapeamento>Município</Mapeamento>
     </MapeamentoMetadado>
