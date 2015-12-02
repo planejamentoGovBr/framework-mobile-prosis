@@ -200,7 +200,7 @@
 		</ListaConjuntoDados>
 	</Categoria>
 	<!-- Essa parte foi adicionada para testar a cartilha de publicação --> 
-		<Categoria>
+	<Categoria>
 		<Nome>Educação</Nome>
 		<ListaConjuntoDados>
 			<ConjuntoDados>
