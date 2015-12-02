@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="LATIN1"?>
 <ConfiguracaoRecurso>
   <Url>https://rawgit.com/planejamentoGovBr/framework-mobile-prosis/master/Educacao/instituicoes-de-ensino-superior/instituicao.csv</Url>
   <Separador>;</Separador>
