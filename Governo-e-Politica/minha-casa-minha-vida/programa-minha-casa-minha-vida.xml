@@ -2,12 +2,10 @@
 <ConfiguracaoRecurso>
   <Url>http://www.geoservicos.inde.gov.br/geoserver/wms?service=WFS&amp;version=1.0.0&amp;request=GetFeature&amp;typeName=MPOG:MCMV&amp;outputFormat=CSV</Url>
   <CamposObrigatorios>
-    <Geometry>geometry</Geometry>
-    <Properties>properties</Properties>
-    <Titulo>Municipio</Titulo>
+    <Latitude>XCOORD</Latitude>
+    <Longitude>YCOORD</Longitude>
+    <Titulo>FID</Titulo>
   </CamposObrigatorios>
-  <PosicaoLatitude>1</PosicaoLatitude>
-  <PosicaoLongitude>0</PosicaoLongitude>
     <ListaMetadados>
       <MapeamentoMetadado>
         <Original>Municipio</Original>
