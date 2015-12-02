@@ -6,7 +6,7 @@
 <CamposObrigatorios>
 <Latitude>XCOORD</Latitude>
 <Longitude>YCOORD</Longitude>
-<Titulo>Nome da Instituicao</Titulo>
+<Titulo>FID</Titulo>
 </CamposObrigatorios>
 <ListaMetadados>
 <MapeamentoMetadado>
