@@ -22,9 +22,11 @@
     </MapeamentoMetadado>
   </ListaMetadados>
   <ListaFiltro>
-    <Filtro value="Cidade">
-      <ItemFiltro>Brasília</ItemFiltro>
-      <ItemFiltro>Planaltina</ItemFiltro>
+    <Filtro value="UF">
+      <ItemFiltro>DF</ItemFiltro>
+      <ItemFiltro>AL</ItemFiltro>
+      <ItemFiltro>PB</ItemFiltro>
+      <ItemFiltro>CE</ItemFiltro>
     </Filtro>
   </ListaFiltro>
 </ConfiguracaoRecurso>
