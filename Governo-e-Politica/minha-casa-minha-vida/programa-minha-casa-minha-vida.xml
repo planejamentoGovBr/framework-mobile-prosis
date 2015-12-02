@@ -3,8 +3,8 @@
   <Url>http://www.geoservicos.inde.gov.br/geoserver/wms?service=WFS&amp;version=1.0.0&amp;request=GetFeature&amp;typeName=MPOG:MCMV&amp;outputFormat=CSV</Url>
   <Separador>,</Separador>
   <CamposObrigatorios>
-    <Latitude>XCOORD</Latitude>
-    <Longitude>YCOORD</Longitude>
+    <Latitude>YCOORD</Latitude>
+    <Longitude>XCOORD</Longitude>
     <Titulo>FID</Titulo>
   </CamposObrigatorios>
   <ListaMetadados>
@@ -22,7 +22,7 @@
     </MapeamentoMetadado>
   </ListaMetadados>
   <ListaFiltro>
-    <Filtro value="Município">
+    <Filtro value="Cidade">
       <ItemFiltro>Brasília</ItemFiltro>
       <ItemFiltro>Planaltina</ItemFiltro>
     </Filtro>
