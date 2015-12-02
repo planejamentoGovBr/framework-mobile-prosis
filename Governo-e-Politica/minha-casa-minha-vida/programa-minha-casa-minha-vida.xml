@@ -7,24 +7,24 @@
     <Longitude>YCOORD</Longitude>
     <Titulo>Municipio</Titulo>
   </CamposObrigatorios>
-    <ListaMetadados>
-      <MapeamentoMetadado>
-        <Original>Municipio</Original>
-        <Mapeamento>Município</Mapeamento>
-      </MapeamentoMetadado>
-      <MapeamentoMetadado>
-        <Original>Concluidas</Original>
-        <Mapeamento>Obras concluídas</Mapeamento>
-      </MapeamentoMetadado>
-      <MapeamentoMetadado>
-        <Original>Percentual</Original>
-        <Mapeamento>Percentual da obra</Mapeamento>
-      </MapeamentoMetadado>
-      </ListaMetadados>
-      <ListaFiltro>
-        <Filtro value="Município">
-          <ItemFiltro>Brasília</ItemFiltro>
-          <ItemFiltro>Planaltina</ItemFiltro>
-        </Filtro>
-      </ListaFiltro>
+  <ListaMetadados>
+    <MapeamentoMetadado>
+      <Original>Municipio</Original>
+      <Mapeamento>Município</Mapeamento>
+    </MapeamentoMetadado>
+    <MapeamentoMetadado>
+      <Original>Concluidas</Original>
+      <Mapeamento>Obras concluídas</Mapeamento>
+    </MapeamentoMetadado>
+    <MapeamentoMetadado>
+      <Original>Percentual</Original>
+      <Mapeamento>Percentual da obra</Mapeamento>
+    </MapeamentoMetadado>
+  </ListaMetadados>
+  <ListaFiltro>
+    <Filtro value="Município">
+      <ItemFiltro>Brasília</ItemFiltro>
+      <ItemFiltro>Planaltina</ItemFiltro>
+    </Filtro>
+  </ListaFiltro>
 </ConfiguracaoRecurso>
