@@ -227,6 +227,24 @@
 					</Recurso>
 				</ListaRecursos>
 			</ConjuntoDados>
+			<!-- Essa parte foi adicionada para testar a cartilha de publicação -->
+			<ConjuntoDados>
+				<Nome>Aeródromos do ROTAER</Nome>
+				<Descricao>A Publicação Auxiliar de Rotas Aéreas (ROTAER) é preparada com informações oriundas da Agência Nacional de Aviação Civil– ANAC –, 
+					   conforme Resolução 158, de 13 JUL 2010, para dados de aeródromos, Portaria no 215/DGAC, de 16 NOV 1981 e informações oriundas 
+					   do Departamento de Controle do Espaço Aéreo (DECEA), conforme o Manual de confecção do ROTAER para procedimentos que serão 
+					   aplicados na confecção, revisão e atualização desta publicação. </Descricao>
+				<ListaRecursos>
+					<Recurso>
+						<Nome>Aeródromos</Nome>
+						<Url>http://www.geoservicos.inde.gov.br/geoserver/ICA/wms?service=WMS&amp;version=1.1.0&amp;request=GetMap&amp;layers=Aerodromos17set15&amp;width=1024&height=768&bbox=-74,-34,-29,6&amp;format=application/vnd.google-earth.kmz%20xml</Url>
+						<Tipo>Georreferenciamento</Tipo>
+						<Tamanho>0,47MB</Tamanho>
+						<Formato>XML</Formato>
+					</Recurso>
+				</ListaRecursos>
+			</ConjuntoDados>
+			<!-- Até aqui -->
 		</ListaConjuntoDados>
 	</Categoria>
 	<!-- Essa parte foi adicionada para testar a cartilha de publicação --> 
