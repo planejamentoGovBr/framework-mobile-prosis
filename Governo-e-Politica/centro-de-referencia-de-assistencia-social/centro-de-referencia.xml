@@ -4,7 +4,7 @@
    <CamposObrigatorios>
       <Geometry>geometry</Geometry>
       <Properties>properties</Properties>
-      <Titulo>MUNICIPIO</Titulo>
+      <Titulo>NomeCRAS</Titulo>
    </CamposObrigatorios>
    <PosicaoLatitude>0</PosicaoLatitude>
    <PosicaoLongitude>1</PosicaoLongitude>
