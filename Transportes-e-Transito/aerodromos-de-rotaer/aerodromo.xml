@@ -2,10 +2,10 @@
 <ConfiguracaoRecurso>
    <Url>http://www.geoservicos.inde.gov.br/geoserver/ICA/wms?service=WMS&amp;version=1.1.0&amp;request=GetMap&amp;layers=Aerodromos17set15&amp;width=1024&height=768&bbox=-74,-34,-29,6&amp;format=application/vnd.google-earth.kmz%20xml</Url>
    <CamposObrigatorios>
-      <Geometry>geometry</Geometry>
-      <Properties>properties</Properties>
-      <Titulo>FID</Titulo>
-   </CamposObrigatorios>
+    <Latitude>latitude</Latitude>
+    <Longitude>longitude</Longitude>
+    <Titulo>FID</Titulo>
+  </CamposObrigatorios>
    <PosicaoLatitude>1</PosicaoLatitude>
    <PosicaoLongitude>0</PosicaoLongitude>
    <ListaMetadados>
