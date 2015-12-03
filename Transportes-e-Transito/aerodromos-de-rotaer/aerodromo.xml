@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ConfiguracaoRecurso>
+   <Url>http://www.geoservicos.inde.gov.br/geoserver/ICA/wms?service=WMS&amp;version=1.1.0&amp;request=GetMap&amp;layers=Aerodromos17set15&amp;width=1024&height=768&bbox=-74,-34,-29,6&amp;format=application/vnd.google-earth.kmz%20xml</Url>
+   <CamposObrigatorios>
+      <Geometry>geometry</Geometry>
+      <Properties>properties</Properties>
+      <Titulo>FID</Titulo>
+   </CamposObrigatorios>
+   <PosicaoLatitude>1</PosicaoLatitude>
+   <PosicaoLongitude>0</PosicaoLongitude>
+   <ListaMetadados>
+      <MapeamentoMetadado>
+         <Original>FID</Original>
+         <Mapeamento>FID</Mapeamento>
+      </MapeamentoMetadado>
+      <MapeamentoMetadado>
+         <Original>nome</Original>
+         <Mapeamento>Nome</Mapeamento>
+      </MapeamentoMetadado>
+      <MapeamentoMetadado>
+         <Original>uf</Original>
+         <Mapeamento>UF</Mapeamento>
+      </MapeamentoMetadado>
+      <MapeamentoMetadado>
+         <Original>AREA_INTER</Original>
+         <Mapeamento>Endereço</Mapeamento>
+      </MapeamentoMetadado>
+      <MapeamentoMetadado>
+         <Original>privado</Original>
+         <Mapeamento>Privado</Mapeamento>
+      </MapeamentoMetadado>
+      <MapeamentoMetadado>
+         <Original>efetivacao</Original>
+         <Mapeamento>Data de efetivação</Mapeamento>
+      </MapeamentoMetadado>
+   </ListaMetadados>
+</ConfiguracaoRecurso>
