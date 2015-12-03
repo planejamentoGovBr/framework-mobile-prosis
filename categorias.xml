@@ -62,7 +62,7 @@
 						<Url>https://rawgit.com/planejamentoGovBr/framework-mobile-prosis/master/Governo-e-Politica/centro-de-referencia-de-assistencia-social/centro-de-referencia.xml</Url>
 						<Tipo>Georreferenciamento</Tipo>
 						<Tamanho>1,2MB</Tamanho>
-						<Formato>CSV</Formato>
+						<Formato>JSON</Formato>
 					</Recurso>
 				</ListaRecursos>
 			</ConjuntoDados>
