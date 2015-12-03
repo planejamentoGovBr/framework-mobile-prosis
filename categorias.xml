@@ -237,7 +237,7 @@
 				<ListaRecursos>
 					<Recurso>
 						<Nome>Aeródromos</Nome>
-						<Url>https://raw.githubusercontent.com/planejamentoGovBr/framework-mobile-prosis/master/Transportes-e-Transito/aerodromos-de-rotaer/aerodromo.xml</Url>
+						<Url>https://rawgit.com/planejamentoGovBr/framework-mobile-prosis/master/Transportes-e-Transito/aerodromos-de-rotaer/aerodromo.xml</Url>
 						<Tipo>Georreferenciamento</Tipo>
 						<Tamanho>0,47MB</Tamanho>
 						<Formato>XML</Formato>
