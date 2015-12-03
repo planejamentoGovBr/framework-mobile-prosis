@@ -6,8 +6,8 @@
       <Properties>properties</Properties>
       <Titulo>NomeCRAS</Titulo>
    </CamposObrigatorios>
-   <PosicaoLatitude>0</PosicaoLatitude>
-   <PosicaoLongitude>1</PosicaoLongitude>
+   <PosicaoLatitude>1</PosicaoLatitude>
+   <PosicaoLongitude>0</PosicaoLongitude>
    <ListaMetadados>
     <MapeamentoMetadado>
       <Original>NomeCRAS</Original>
