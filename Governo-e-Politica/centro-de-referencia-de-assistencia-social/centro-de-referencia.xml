@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ConfiguracaoRecurso>
-  <Url>http://www.geoservicos.inde.gov.br/geoserver/wms?service=WFS&amp;version=1.0.0&amp;request=GetFeature&amp;typeName=MDS:CRAS2012&amp;outputFormat=JSON</Url>
+  <Url>http://www.geoservicos.inde.gov.br/geoserver/wms?service=WFS&amp;version=1.0.0&amp;request=GetFeature&amp;typeName=MDS:CRAS2012&amp;outputFormat=CSV</Url>
  <CamposObrigatorios>
+    <Separador>,</Separador>
     <Latitude>p_longitud</Latitude>
     <Longitude>p_latitude</Longitude>
     <Titulo>FID</Titulo>
