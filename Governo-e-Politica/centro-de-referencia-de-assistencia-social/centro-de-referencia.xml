@@ -2,12 +2,10 @@
 <ConfiguracaoRecurso>
   <Url>http://www.geoservicos.inde.gov.br/geoserver/wms?service=WFS&amp;version=1.0.0&amp;request=GetFeature&amp;typeName=MDS:CRAS2012&amp;outputFormat=JSON</Url>
    <CamposObrigatorios>
-      <Geometry>geometry</Geometry>
-      <Properties>properties</Properties>
-      <Titulo>NomeCRAS</Titulo>
-   </CamposObrigatorios>
-   <PosicaoLatitude>1</PosicaoLatitude>
-   <PosicaoLongitude>0</PosicaoLongitude>
+    <Latitude>p_longitud</Latitude>
+    <Longitude>p_latitude</Longitude>
+    <Titulo>FID</Titulo>
+  </CamposObrigatorios>
    <ListaMetadados>
     <MapeamentoMetadado>
       <Original>NomeCRAS</Original>
