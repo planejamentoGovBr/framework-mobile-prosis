@@ -293,4 +293,24 @@
 		</ListaConjuntoDados>
 	</Categoria>
 	<!-- Acrescentado até aqui --> 
+	<!-- Essa parte foi adicionada para testar a cartilha de publicação --> 
+	<Categoria>
+		<Nome>Justiça</Nome>
+		<ListaConjuntoDados>
+			<ConjuntoDados>
+				<Nome>Postos e delegacias do Departamento de Polícia Federal</Nome>
+				<Descricao>Informações sobre os postos e delegacias do Departamento de Polícia Federal - DPF.</Descricao>
+				<ListaRecursos>
+					<Recurso>
+						<Nome>Postos e delegacias do DPF</Nome>
+						<Url>https://rawgit.com/planejamentoGovBr/framework-mobile-prosis/master/Justica/postos-e-delegacias-da-policia-federal/postos-e-delegacias.xml</Url>
+						<Tipo>Tabela</Tipo>
+						<Tamanho>0,03MB</Tamanho>
+						<Formato>CSV</Formato>
+					</Recurso>
+				</ListaRecursos>
+			</ConjuntoDados>
+		</ListaConjuntoDados>
+	</Categoria>
+	<!-- Acrescentado até aqui --> 
 </DadosGov>
