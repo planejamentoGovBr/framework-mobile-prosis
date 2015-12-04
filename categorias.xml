@@ -298,14 +298,14 @@
 		<Nome>Justiça</Nome>
 		<ListaConjuntoDados>
 			<ConjuntoDados>
-				<Nome>Postos e delegacias do Departamento de Polícia Federal</Nome>
-				<Descricao>Informações sobre os postos e delegacias do Departamento de Polícia Federal - DPF.</Descricao>
+				<Nome>Postos e delegacias da Polícia Rodoviária Federal</Nome>
+				<Descricao>Informações sobre os postos e delegacias do Departamento de Polícia Rodoviária Federal - DPRF.</Descricao>
 				<ListaRecursos>
 					<Recurso>
-						<Nome>Postos e delegacias do DPF</Nome>
-						<Url>https://rawgit.com/planejamentoGovBr/framework-mobile-prosis/master/Justica/postos-e-delegacias-da-policia-federal/postos-e-delegacias.xml</Url>
+						<Nome>Postos e delegacias da PRF</Nome>
+						<Url>https://rawgit.com/planejamentoGovBr/framework-mobile-prosis/master/Justica/postos-e-delegacias-da-policia-rodoviaria-federal/postos-e-rodovias.xml</Url>
 						<Tipo>Tabela</Tipo>
-						<Tamanho>0,03MB</Tamanho>
+						<Tamanho>0,04MB</Tamanho>
 						<Formato>CSV</Formato>
 					</Recurso>
 				</ListaRecursos>
