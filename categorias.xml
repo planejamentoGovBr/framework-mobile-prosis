@@ -54,6 +54,32 @@
 			<!-- Até aqui -->
 			<!-- Essa parte foi adicionada para testar a cartilha de publicação -->
 			<ConjuntoDados>
+				<Nome>Minha Casa Minha Vida</Nome>
+				<Descricao>Empreendimentos do Programa Minha Casa, Minha Vida. Empreendimentos pertencentes a Carteira do PAC. Data de referência março/2012.- escala 1:1.000.000. Sistema de referência: SIRGAS2000.</Descricao>
+				<ListaRecursos>
+					<Recurso>
+						<Nome>Minha casa minha vida</Nome>						
+						<Url><!-- Essa parte foi adicionada para testar a cartilha de publicação -->
+			<ConjuntoDados>
+				<Nome>Domínios Gov.br</Nome>
+				<Descricao>Informações sobre os domínios Gov.br registrados no Registro.br e autorizados pelo Ministério 
+				           do Planejamento.Contém todos os domínios autorizados e seus respectivos responsáveis.
+					   Estão disponíveis as URL, o CNPJ e nome do Órgão, localidade, assim como as datas de registro 
+					   e da última atualização dos dados de registro do domínio.
+				</Descricao>
+				<ListaRecursos>
+					<Recurso>
+						<Nome>Domínios Gov.br</Nome>						
+						<Url>https://rawgit.com/planejamentoGovBr/framework-mobile-prosis/master/Governo-e-Politica/minha-casa-minha-vida/programa-minha-casa-minha-vida.xml</Url>
+						<Tipo>Tabela</Tipo>
+						<Tamanho>0,2MB</Tamanho>
+						<Formato>CSV</Formato>
+					</Recurso>
+				</ListaRecursos>
+			</ConjuntoDados>
+			<!-- Até aqui -->
+			<!-- Essa parte foi adicionada para testar a cartilha de publicação -->
+			<ConjuntoDados>
 				<Nome>Centro de Referência de Assistência Social - CRAS </Nome>
 				<Descricao>Localização dos CRAS com informações obtidas do CensoSUAS 2012.</Descricao>
 				<ListaRecursos>
