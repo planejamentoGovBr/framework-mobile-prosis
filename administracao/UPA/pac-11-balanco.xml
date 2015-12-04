@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ConfiguracaoRecurso>
+  <Url>http://189.9.137.169:8080/geoserver/pac/wms?service=WFS&amp;version=1.0.0&amp;request=GetFeature&amp;typeName=pac:upa&amp;outputFormat=CSV</Url>
+  <Separador>,</Separador>
+  <Enconding>ISO-8859-1</Enconding>
+  <CamposObrigatorios>
+    <Titulo>empreendimento</Titulo>
+  </CamposObrigatorios>
+  <ListaMetadados>
+    <MapeamentoMetadado>
+      <Original>empreendimento</Original>
+      <Mapeamento>Empreendimento</Mapeamento>
+    </MapeamentoMetadado>
+    <MapeamentoMetadado>
+      <Original>orgao_responsavel</Original>
+      <Mapeamento>Órgão resnsável</Mapeamento>
+    </MapeamentoMetadado>
+    <MapeamentoMetadado>
+      <Original>executor</Original>
+      <Mapeamento>Executor</Mapeamento>
+    </MapeamentoMetadado>
+    <MapeamentoMetadado>
+      <Original>municipio</Original>
+      <Mapeamento>Cidade</Mapeamento>
+    </MapeamentoMetadado>
+    <MapeamentoMetadado>
+      <Original>unidade_federativa</Original>
+      <Mapeamento>UF</Mapeamento>
+    </MapeamentoMetadado>
+    <MapeamentoMetadado>
+      <Original>estagio</Original>
+      <Mapeamento>Estágio</Mapeamento>
+    </MapeamentoMetadado>
+    <MapeamentoMetadado>
+      <Original>data_de_referencia</Original>
+      <Mapeamento>Data de referência</Mapeamento>
+    </MapeamentoMetadado>
+  </ListaMetadados>
+  <ListaFiltro>
+    <Filtro value="UF">
+      <ItemFiltro>BA</ItemFiltro>
+      <ItemFiltro>RJ</ItemFiltro>
+      <ItemFiltro>CE</ItemFiltro>
+      <ItemFiltro>TO</ItemFiltro>
+    </Filtro>
+  </ListaFiltro>
+</ConfiguracaoRecurso>
