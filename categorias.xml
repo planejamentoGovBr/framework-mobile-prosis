@@ -313,4 +313,24 @@
 		</ListaConjuntoDados>
 	</Categoria>
 	<!-- Acrescentado até aqui --> 
+	<!-- Essa parte foi adicionada para testar a cartilha de publicação --> 
+	<Categoria>
+		<Nome>Administração</Nome>
+		<ListaConjuntoDados>
+			<ConjuntoDados>
+				<Nome>UPA - PAC 11º Balanço</Nome>
+				<Descricao>Empreendimentos pertencentes a Carteira do PAC. Dados do 11º balanço do PAC referentes ao período de Julho a Dezembro de 2014e fornecem informações sobre os empreendimentos presentes na carteira de projetos do programa. Os dados estão em escalade planejamento e podem ocorrer imprecisões em escala municipal.</Descricao>
+				<ListaRecursos>
+					<Recurso>
+						<Nome>UPA</Nome>
+						<Url>https://rawgit.com/planejamentoGovBr/framework-mobile-prosis/master/administracao/UPA/pac-11-balanco.xml</Url>
+						<Tipo>Tabela</Tipo>
+						<Tamanho>0,15MB</Tamanho>
+						<Formato>CSV</Formato>
+					</Recurso>
+				</ListaRecursos>
+			</ConjuntoDados>
+		</ListaConjuntoDados>
+	</Categoria>
+	<!-- Acrescentado até aqui --> 
 </DadosGov>
