@@ -39,10 +39,4 @@
         <Mapeamento>Data da atualização</Mapeamento>
       </MapeamentoMetadado>
     </ListaMetadados>
-  <ListaFiltro>
-    <Filtro value="Modalidade">
-      <ItemFiltro>Pública</ItemFiltro>
-      <ItemFiltro>Privada</ItemFiltro>
-    </Filtro>
-  </ListaFiltro>
 </ConfiguracaoRecurso>
