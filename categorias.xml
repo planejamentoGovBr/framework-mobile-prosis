@@ -54,13 +54,6 @@
 			<!-- Até aqui -->
 			<!-- Essa parte foi adicionada para testar a cartilha de publicação -->
 			<ConjuntoDados>
-				<Nome>Minha Casa Minha Vida</Nome>
-				<Descricao>Empreendimentos do Programa Minha Casa, Minha Vida. Empreendimentos pertencentes a Carteira do PAC. Data de referência março/2012.- escala 1:1.000.000. Sistema de referência: SIRGAS2000.</Descricao>
-				<ListaRecursos>
-					<Recurso>
-						<Nome>Minha casa minha vida</Nome>						
-						<Url><!-- Essa parte foi adicionada para testar a cartilha de publicação -->
-			<ConjuntoDados>
 				<Nome>Domínios Gov.br</Nome>
 				<Descricao>Informações sobre os domínios Gov.br registrados no Registro.br e autorizados pelo Ministério 
 				           do Planejamento.Contém todos os domínios autorizados e seus respectivos responsáveis.
