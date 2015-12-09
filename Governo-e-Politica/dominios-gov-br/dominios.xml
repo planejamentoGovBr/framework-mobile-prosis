@@ -3,7 +3,7 @@
   <Url>http://dominios.governoeletronico.gov.br/dados-abertos/Dominios_GovBR_basico.csv</Url>
   <Separador>;</Separador>
   <CamposObrigatorios>
-    <Titulo>dominio</Titulo>
+    <Titulo>nome</Titulo>
     </CamposObrigatorios>
     <ListaMetadados>
       <MapeamentoMetadado>
@@ -16,7 +16,7 @@
       </MapeamentoMetadado>
       <MapeamentoMetadado>
         <Original>nome</Original>
-        <Mapeamento>Nome</Mapeamento>
+        <Mapeamento>Nome do Órgão</Mapeamento>
       </MapeamentoMetadado>
       <MapeamentoMetadado>
         <Original>cidade</Original>
