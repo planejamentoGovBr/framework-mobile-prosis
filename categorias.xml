@@ -63,7 +63,7 @@
 				<ListaRecursos>
 					<Recurso>
 						<Nome>Domínios Gov.br</Nome>						
-						<Url>https://rawgit.com/planejamentoGovBr/framework-mobile-prosis/master/Governo-e-Politica/minha-casa-minha-vida/programa-minha-casa-minha-vida.xml</Url>
+						<Url>https://rawgit.com/planejamentoGovBr/framework-mobile-prosis/master/Governo-e-Politica/dominios-gov-br/dominios.xml</Url>
 						<Tipo>Tabela</Tipo>
 						<Tamanho>0,2MB</Tamanho>
 						<Formato>CSV</Formato>
