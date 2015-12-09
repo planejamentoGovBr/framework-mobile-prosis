@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ConfiguracaoRecurso>
-  <Url>https:http://dominios.governoeletronico.gov.br/dados-abertos/Dominios_GovBR_basico.csv</Url>
+  <Url>http://dominios.governoeletronico.gov.br/dados-abertos/Dominios_GovBR_basico.csv</Url>
   <Separador>;</Separador>
   <CamposObrigatorios>
     <Titulo>dominio</Titulo>
