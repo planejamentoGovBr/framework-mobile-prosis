@@ -20,7 +20,11 @@
       </MapeamentoMetadado>
       <MapeamentoMetadado>
         <Original>Telefone 2</Original>
-        <Mapeamento>Tel</Mapeamento>
+        <Mapeamento>Telefone 2</Mapeamento>
+      </MapeamentoMetadado>
+      <MapeamentoMetadado>
+        <Original>Endereço</Original>
+        <Mapeamento>Endereço:</Mapeamento>
       </MapeamentoMetadado>
     </ListaMetadados>
   </ConfiguracaoRecurso>
