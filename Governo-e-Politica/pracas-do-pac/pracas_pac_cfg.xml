@@ -4,26 +4,38 @@
    <CamposObrigatorios>
       <Geometry>geometry</Geometry>
       <Properties>properties</Properties>
-      <Titulo>MUNICIPIO</Titulo>
+      <Titulo>FID</Titulo>
    </CamposObrigatorios>
    <PosicaoLatitude>1</PosicaoLatitude>
    <PosicaoLongitude>0</PosicaoLongitude>
    <ListaMetadados>
       <MapeamentoMetadado>
-         <Original>GRUPO</Original>
-         <Mapeamento>Grupo</Mapeamento>
-      </MapeamentoMetadado>
-      <MapeamentoMetadado>
-         <Original>GRUPO</Original>
-         <Mapeamento>Grupo</Mapeamento>
+         <Original>FID</Original>
+         <Mapeamento>FID</Mapeamento>
       </MapeamentoMetadado>
       <MapeamentoMetadado>
          <Original>MUNICIPIO</Original>
          <Mapeamento>Município</Mapeamento>
       </MapeamentoMetadado>
       <MapeamentoMetadado>
+         <Original>UF</Original>
+         <Mapeamento>Federação</Mapeamento>
+      </MapeamentoMetadado>
+      <MapeamentoMetadado>
+         <Original>COD_IBGE</Original>
+         <Mapeamento>Código IBGE</Mapeamento>
+      </MapeamentoMetadado>
+      <MapeamentoMetadado>
+         <Original>MODELO</Original>
+         <Mapeamento>Modelo</Mapeamento>
+      </MapeamentoMetadado>
+      <MapeamentoMetadado>
+         <Original>grupo_pac</Original>
+         <Mapeamento>Grupo PAC</Mapeamento>
+      </MapeamentoMetadado>
+      <MapeamentoMetadado>
          <Original>AREA_INTER</Original>
-         <Mapeamento>Endereço</Mapeamento>
+         <Mapeamento>ÁREA INTER</Mapeamento>
       </MapeamentoMetadado>
       <MapeamentoMetadado>
          <Original>valor_obra</Original>
@@ -33,10 +45,14 @@
          <Original>Seleção</Original>
          <Mapeamento>Seleção</Mapeamento>
       </MapeamentoMetadado>
-      <MapeamentoMetadado>
-         <Original>UF</Original>
-         <Mapeamento>UF</Mapeamento>
-      </MapeamentoMetadado>
    </ListaMetadados>
-   
+   <ListaFiltro>
+      <Filtro value="UF">
+         <ItemFiltro>BA</ItemFiltro>
+         <ItemFiltro>BH</ItemFiltro>
+         <ItemFiltro>DF</ItemFiltro>
+         <ItemFiltro>SP</ItemFiltro>
+         <ItemFiltro>RJ</ItemFiltro>
+      </Filtro>
+   </ListaFiltro>
 </ConfiguracaoRecurso>
