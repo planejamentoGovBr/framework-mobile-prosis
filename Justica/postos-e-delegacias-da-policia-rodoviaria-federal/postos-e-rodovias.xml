@@ -3,7 +3,7 @@
   <Url>http://repositorio.dados.gov.br/defesa-seguranca/seguranca-publica/policia/Lista_de_Postos_DPRF.csv</Url>
   <Separador>;</Separador>
   <CamposObrigatorios>
-    <Titulo>SRPRF</Titulo>
+    <Titulo>Nome</Titulo>
     </CamposObrigatorios>
     <ListaMetadados>
       <MapeamentoMetadado>
@@ -16,19 +16,7 @@
       </MapeamentoMetadado>
       <MapeamentoMetadado>
         <Original>Telefone 1</Original>
-        <Mapeamento>Telefone 1</Mapeamento>
-      </MapeamentoMetadado>
-      <MapeamentoMetadado>
-        <Original>Telefone 2</Original>
-        <Mapeamento>Telefone 2</Mapeamento>
-      </MapeamentoMetadado>
-      <MapeamentoMetadado>
-        <Original>Telefone 3</Original>
-        <Mapeamento>Telefone 3</Mapeamento>
-      </MapeamentoMetadado>
-      <MapeamentoMetadado>
-        <Original>Telefone 4</Original>
-        <Mapeamento>Telefone 4</Mapeamento>
+        <Mapeamento>Telefone</Mapeamento>
       </MapeamentoMetadado>
       <MapeamentoMetadado>
         <Original>Endereço</Original>
