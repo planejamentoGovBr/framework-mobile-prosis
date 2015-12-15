@@ -8,7 +8,6 @@
   </CamposObrigatorios>
    <PosicaoLatitude>1</PosicaoLatitude>
    <PosicaoLongitude>0</PosicaoLongitude>
-
    <ListaMetadados>
     <MapeamentoMetadado>
       <Original>NomeCRAS</Original>
@@ -23,12 +22,32 @@
       <Mapeamento>Endereço</Mapeamento>
     </MapeamentoMetadado>
     <MapeamentoMetadado>
-      <Original>UF</Original>
-      <Mapeamento>UF</Mapeamento>
+      <Original>Numero</Original>
+      <Mapeamento>Número</Mapeamento>
+    </MapeamentoMetadado>
+    <MapeamentoMetadado>
+      <Original>Complement</Original>
+      <Mapeamento>Complemento</Mapeamento>
+    </MapeamentoMetadado>
+    <MapeamentoMetadado>
+      <Original>CEP</Original>
+      <Mapeamento>CEP</Mapeamento>
     </MapeamentoMetadado>
     <MapeamentoMetadado>
       <Original>NomeMunici</Original>
       <Mapeamento>Município</Mapeamento>
+    </MapeamentoMetadado>
+     <MapeamentoMetadado>
+      <Original>CodIBGEmun</Original>
+      <Mapeamento>Código IBGE</Mapeamento>
+    </MapeamentoMetadado>
+    <MapeamentoMetadado>
+      <Original>UF</Original>
+      <Mapeamento>Federação</Mapeamento>
+    </MapeamentoMetadado>
+    <MapeamentoMetadado>
+      <Original>id_cras</Original>
+      <Mapeamento>ID CRAS</Mapeamento>
     </MapeamentoMetadado>
   </ListaMetadados>
   <ListaFiltro>
