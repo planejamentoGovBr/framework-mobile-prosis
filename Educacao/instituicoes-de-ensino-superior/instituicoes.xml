@@ -20,6 +20,10 @@
       <Mapeamento>Município</Mapeamento>
     </MapeamentoMetadado>
     <MapeamentoMetadado>
+      <Original>DS_COMPLEMENTO_ENDERECO</Original>
+      <Mapeamento>Endereço</Mapeamento>
+    </MapeamentoMetadado>
+    <MapeamentoMetadado>
       <Original>DEPADM</Original>
       <Mapeamento>Categoria Administrativa</Mapeamento>
     </MapeamentoMetadado>
