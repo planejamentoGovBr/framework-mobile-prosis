@@ -13,6 +13,10 @@
          <Original>FID</Original>
          <Mapeamento>FID</Mapeamento>
       </MapeamentoMetadado>
+      <MapeamentoMetadado> 
+         <Original>FID</Original>
+         <Mapeamento>FID</Mapeamento>
+      </MapeamentoMetadado>
       <MapeamentoMetadado>
          <Original>MUNICIPIO</Original>
          <Mapeamento>Município</Mapeamento>
