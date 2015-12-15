@@ -37,7 +37,7 @@
     </MapeamentoMetadado>
   </ListaMetadados>
   <ListaFiltro>
-    <Filtro value="UF">
+    <Filtro value="unidade_federativa">
       <ItemFiltro>BA</ItemFiltro>
       <ItemFiltro>RJ</ItemFiltro>
       <ItemFiltro>CE</ItemFiltro>
