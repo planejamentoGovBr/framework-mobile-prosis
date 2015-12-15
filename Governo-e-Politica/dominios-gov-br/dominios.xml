@@ -3,7 +3,7 @@
   <Url>http://dominios.governoeletronico.gov.br/dados-abertos/Dominios_GovBR_basico.csv</Url>
   <Separador>;</Separador>
   <CamposObrigatorios>
-    <Titulo>nome</Titulo>
+    <Titulo>dominio</Titulo>
     </CamposObrigatorios>
     <ListaMetadados>
       <MapeamentoMetadado>
@@ -39,4 +39,12 @@
         <Mapeamento>Data da atualização</Mapeamento>
       </MapeamentoMetadado>
     </ListaMetadados>
+    <ListaFiltro>
+      <Filtro value="UF">
+        <ItemFiltro>DF</ItemFiltro>
+        <ItemFiltro>SP</ItemFiltro>
+        <ItemFiltro>RJ</ItemFiltro>
+        <ItemFiltro>SP</ItemFiltro>
+      </Filtro>
+    </ListaFiltro>
 </ConfiguracaoRecurso>
