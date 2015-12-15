@@ -13,24 +13,49 @@
       <Mapeamento>FID</Mapeamento>
     </MapeamentoMetadado>
     <MapeamentoMetadado>
-      <Original>Concluidas</Original>
-      <Mapeamento>Obras concluídas</Mapeamento>
-    </MapeamentoMetadado>
-    <MapeamentoMetadado>
       <Original>UF</Original>
       <Mapeamento>Federação</Mapeamento>
     </MapeamentoMetadado>
     <MapeamentoMetadado>
+      <Original>COD_IBGE</Original>
+      <Mapeamento>Código IBGE</Mapeamento>
+    </MapeamentoMetadado>
+    <MapeamentoMetadado>
+      <Original>Municipio</Original>
+      <Mapeamento>Município</Mapeamento>
+    </MapeamentoMetadado>
+    <MapeamentoMetadado>
+      <Original>Produto</Original>
+      <Mapeamento>Produto</Mapeamento>
+    </MapeamentoMetadado>
+    <MapeamentoMetadado>
+      <Original>valor</Original>
+      <Mapeamento>Valor</Mapeamento>
+    </MapeamentoMetadado>
+    <MapeamentoMetadado>
+      <Original>Concluidas</Original>
+      <Mapeamento>Obras concluídas</Mapeamento>
+    </MapeamentoMetadado>
+    <MapeamentoMetadado>
+      <Original>Entregues</Original>
+      <Mapeamento>Entregues</Mapeamento>
+    </MapeamentoMetadado>
+    <MapeamentoMetadado>
       <Original>Percentual</Original>
-      <Mapeamento>Percentual da obra</Mapeamento>
+      <Mapeamento>Percentual</Mapeamento>
+    </MapeamentoMetadado>
+    <MapeamentoMetadado>
+      <Original>IF</Original>
+      <Mapeamento>IF</Mapeamento>
     </MapeamentoMetadado>
   </ListaMetadados>
   <ListaFiltro>
     <Filtro value="UF">
+      <ItemFiltro>BA</ItemFiltro>
+      <ItemFiltro>BH</ItemFiltro>
       <ItemFiltro>DF</ItemFiltro>
-      <ItemFiltro>AL</ItemFiltro>
-      <ItemFiltro>PB</ItemFiltro>
-      <ItemFiltro>CE</ItemFiltro>
+      <ItemFiltro>SP</ItemFiltro>
+      <ItemFiltro>RJ</ItemFiltro>
     </Filtro>
   </ListaFiltro>
 </ConfiguracaoRecurso>
