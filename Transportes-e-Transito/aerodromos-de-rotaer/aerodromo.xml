@@ -22,16 +22,21 @@
          <Mapeamento>UF</Mapeamento>
       </MapeamentoMetadado>
       <MapeamentoMetadado>
-         <Original>AREA_INTER</Original>
-         <Mapeamento>Endereço</Mapeamento>
+         <Original>id</Original>
+         <Mapeamento>Identificação</Mapeamento>
+      </MapeamentoMetadado>
+      <MapeamentoMetadado>
+         <Original>tipo</Original>
+         <Mapeamento>Tipo</Mapeamento>
+      </MapeamentoMetadado>
+    
+      <MapeamentoMetadado>
+         <Original>efetivacao</Original>
+         <Mapeamento>Data de efetivação</Mapeamento>
       </MapeamentoMetadado>
       <MapeamentoMetadado>
          <Original>privado</Original>
          <Mapeamento>Privado</Mapeamento>
-      </MapeamentoMetadado>
-      <MapeamentoMetadado>
-         <Original>efetivacao</Original>
-         <Mapeamento>Data de efetivação</Mapeamento>
       </MapeamentoMetadado>
    </ListaMetadados>
 </ConfiguracaoRecurso>
